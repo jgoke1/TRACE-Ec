@@ -1,0 +1,28 @@
+
+Documentation
+Uganda genomes- doi: 10.1038/s41598-023-35879-x
+Whole strains vs MGEs in short and longterm transmission of ESBL genes between healthcare and community settings in Uganda
+Yaovi Mahuton Gildas Hounmanou 1, Agnes Wanyana 2, Stephen Alafi 2, Fred Wabwire-Mangen 3, Henrik Christensen 1, John Elmerdahl Olsen 1, Denis Karuhize Byarugaba 2,✉
+Madagascar-  doi: 10.1093/jac/dkad125
+One Health compartment analysis of ESBL-producing Escherichia coli reveals multiple transmission events in a rural area of Madagascar
+Noellie Gay 1,2,b, Mamitina Alain Noah Rabenandrasana 3,b, Harielle Prisca Panandiniaina 4, Marie Florence Rakotoninidrina 5, Ilo Tsimok’Haja Ramahatafandry 6, Vincent Enouf 7, François Roger 8, Jean-Marc Collard 9,c, Eric Cardinale 10, Adrien Rieux 11,b, Etienne Loire 12,✉,b
+
+Madagascar- DOI: 10.1016/S2666-5247(24)00065-X
+Implementation of the WHO Tricycle protocol for surveillance of extended-spectrum β-lactamase producing Escherichia coli in humans, chickens, and the environment in Madagascar: a prospective genomic epidemiology study
+
+Tanzania- doi: 10.3389/fmicb.2016.01862
+Predominance of CTX-M-15 among ESBL Producers from Environment and Fish Gut from the Shores of Lake Victoria in Mwanza, Tanzania
+Nyambura Moremi 1, Elizabeth V Manda 1, Linda Falgenhauer 2,3, Hiren Ghosh 2,3, Can Imirzalioglu 2,3, Mecky Matee 4, Trinad Chakraborty 2,3, Stephen E Mshana 1,*
+
+Tanzania-  DOI: 10.3389/fmicb.2024.1517182
+High prevalence of fecal carriage of extended-spectrum beta-lactamase producing Enterobacterales among patients with urinary tract infections in rural Tanzania
+Magreth Erick Macha 1 2 3, Weihong Qi 4, Salome N Seiffert 5, Anja Bösch 2, Philipp Kohler 6, Honorathy Msami Urassa 7, Sabine Haller 6, Erin West 8, Maja Weisser Rohacek 9 10 11, Baharak Babouee Flury
+
+Ethopia- DOI: 10.3390/antibiotics13090851
+Genomic Characterization of Extended-Spectrum β-Lactamase-Producing and Third-Generation Cephalosporin-Resistant Escherichia coli Isolated from Stools of Primary Healthcare Patients in Ethiopia
+Deneke Wolde 1 2 3, Tadesse Eguale 2 4, Girmay Medhin 2, Aklilu Feleke Haile 2, Haile Alemayehu 2, Adane Mihret 5 6, Mateja Pirs 7, Katja Strašek Smrdel 7, Jana Avberšek 8, Darja Kušar 8, Tjaša Cerar Kišek 9, Tea Janko 9, Andrej Steyer 9, Marjanca Starčič Erjavec 3
+
+Nigeria- DOI: 10.1128/mra.00140-24
+Draft genome sequences of a blaCTX-M-15-harboring and an atypical enteropathogenic Escherichia coli isolate recovered from slaughterhouses in Nigeria
+Abeni Beshiru 1 2, Etinosa O Igbinosa 3, Sascha Al Dahouk 4, Ralf Dieckmann 4, Szilvia Neuhaus 1
+
