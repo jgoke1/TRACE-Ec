@@ -1,1 +1,2 @@
 TRACE-Ec: Transmission and Resistance Analytics for Carbapenem- and ESBL-producing E. coli
+This project aims to detect prevalent ESBL genes from ATLAS Vivli data and also make a comparison with data publicly available on the genomic data repository.
